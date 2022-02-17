@@ -5,4 +5,4 @@ Se escogio un tema de interés propio en la Página Web de PubMed, se ealizó un
 # dataset usada
 Para este trabajo se ha utilizado información del tema de interés escherichia coli, la cual se obtuvo del navegador de pubmed.
 # Herramientas
-Se utilizó python-jupyter notebook
+Se utilizó python-jupyter notebook, git bash y git hub desktop.
